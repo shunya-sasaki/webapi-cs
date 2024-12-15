@@ -1,0 +1,5 @@
+**/.DS_Store
+*.http
+/bin
+/obj
+/opt
